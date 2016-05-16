@@ -1,0 +1,621 @@
+{
+	"ingredients" : [
+		{ 
+		 	"kind": "곡류",
+		 	"value" : [
+				{ "name": "쌀", "measure": "cup"},
+
+				{ "name": "보리", "measure": "cup"},
+
+				{ "name": "밀", "measure": "cup"},
+
+				{ "name": "콩", "measure": "cup"},
+
+				{ "name": "검은콩", "measure": "cup"},
+
+				{ "name": "팥", "measure": "cup"},
+
+				{ "name": "수수", "measure": "cup"},
+
+				{ "name": "고구마", "measure": "pcs"},
+
+				{ "name": "감자", "measure": "pcs"},
+
+				{ "name": "토란", "measure": "pcs"},
+
+				{ "name": "옥수수", "measure": "pcs"},
+
+				{ "name": "현미", "measure": "cup"}
+
+			]
+		},
+
+		{
+			"kind": "전분류",
+			"value": [
+				{ "name": "밀가루", "measure": "cup"},
+
+				{ "name": "쌀가루", "measure": "cup"},
+
+				{ "name": "부침가루", "measure": "cup"},
+
+				{ "name": "튀김가루", "measure": "cup"},
+
+				{ "name": "감자전분", "measure": "cup"},
+
+				{ "name": "전분", "measure": "cup"}
+			]
+		},
+
+		{
+			"kind":	"채소류",
+			"value" : [
+				{ "name": "가지", "measure": "pcs" },
+
+				{ "name": "고사리 나물", "measure": "g" },
+
+				{ "name": "곰취", "measure": "g" },
+
+				{ "name": "깻잎", "measure": "g" },
+
+				{ "name": "고추", "measure": "pcs" },
+
+				{ "name": "청양고추", "measure": "pcs" },
+
+				{ "name": "꽈리고추", "measure": "pcs" },
+
+				{ "name": "냉이", "measure": "g" },
+
+				{ "name": "파프리카", "measure": "pcs" },
+
+				{ "name": "느타리 버섯", "measure": "g" },
+
+				{ "name": "단호박", "measure": "pcs" },
+
+				{ "name": "달래", "measure": "g" },
+
+				{ "name": "당귀", "measure": "g" },
+
+				{ "name": "당근", "measure": "g" },
+
+				{ "name": "대파", "measure": "g" },
+
+				{ "name": "도라지", "measure": "g" },
+
+				{ "name": "로메인", "measure": "g" },
+
+				{ "name": "마늘", "measure": "g" },
+
+				{ "name": "목이버섯", "measure": "g" },
+
+				{ "name": "무순", "measure": "g" },
+
+				{ "name": "무", "measure": "g" },
+
+				{ "name": "미나리", "measure": "g" },
+
+				{ "name": "바질", "measure": "g" },
+
+				{ "name": "토마토", "measure": "pcs" },
+
+				{ "name": "방울 토마토", "measure": "pcs" },
+
+				{ "name": "배추", "measure": "g" },
+
+				{ "name": "봄동", "measure": "g" },
+
+				{ "name": "부추", "measure": "g" },
+
+				{ "name": "양배추", "measure": "g" },
+
+				{ "name": "붉은 양배추", "measure": "g" },
+
+				{ "name": "브로콜리", "measure": "g" },
+
+				{ "name": "상추", "measure": "g" },
+
+				{ "name": "새송이 버섯", "measure": "g" },
+
+				{ "name": "생강", "measure": "pcs" },
+
+				{ "name": "송이버섯", "measure": "g" },
+
+				{ "name": "팽이버섯", "measure": "g" },
+
+				{ "name": "실파", "measure": "g" },
+
+				{ "name": "쑥", "measure": "g" },
+
+				{ "name": "쑥갓", "measure": "g" },
+
+				{ "name": "아스 파라거스", "measure": "pcs" },
+
+				{ "name": "아욱", "measure": "g" },
+
+				{ "name": "애호박", "measure": "pcs" },
+
+				{ "name": "양상추", "measure": "g" },
+
+				{ "name": "양송이 버섯", "measure": "g" },
+
+				{ "name": "양파", "measure": "pcs" },
+
+				{ "name": "열무", "measure": "g" },
+
+				{ "name": "오이", "measure": "pcs" },
+
+				{ "name": "우엉", "measure": "g" },
+
+				{ "name": "피망", "measure": "pcs" },
+
+				{ "name": "표고버섯", "measure": "g" },
+
+				{ "name": "콜라비", "measure": "g" },
+
+				{ "name": "청경채", "measure": "g" },
+			]
+		},
+
+		{		
+			"kind": "과일류",
+			"value": [
+				{ "name": "건포도", "measure": "pcs" },
+
+				{ "name": "곶감", "measure": "pcs" },
+
+				{ "name": "그린키위", "measure": "pcs" },
+
+				{ "name": "딸기", "measure": "pcs" },
+
+				{ "name": "레몬", "measure": "pcs" },
+
+				{ "name": "매실", "measure": "pcs" },
+
+				{ "name": "바나나", "measure": "pcs" },
+
+				{ "name": "블루베리", "measure": "pcs" },
+
+				{ "name": "올리브", "measure": "pcs" },
+
+				{ "name": "사과", "measure": "pcs" },
+
+				{ "name": "아보카도", "measure": "pcs" },
+
+				{ "name": "오렌지", "measure": "pcs" },
+
+				{ "name": "크랜베리", "measure": "pcs" },
+
+				{ "name": "수박", "measure": "pcs" },
+
+				{ "name": "파인애플", "measure": "pcs" },
+
+				{ "name": "메론", "measure": "pcs" },
+
+				{ "name": "포도", "measure": "pcs" }
+			]
+		},
+
+		{
+			"kind": "견과류",
+			"value": [
+				{ "name": "밤", "measure": "g" },
+
+				{ "name": "은행", "measure": "g" },
+
+				{ "name": "호두", "measure": "g" },
+
+				{ "name": "잣", "measure": "g" },
+
+				{ "name": "아몬드", "measure": "g" },
+
+				{ "name": "캐슈넛", "measure": "g" },
+
+				{ "name": "땅콩", "measure": "g" },
+
+				{ "name": "해바라기씨", "measure": "g" },
+
+				{ "name": "헤이즐넛", "measure": "g" },
+
+				{ "name": "피스타 치오", "measure": "g" },
+
+				{ "name": "도토리", "measure": "g" }
+			]
+		},
+
+		{
+			"kind": "육류",
+			"value": [
+				{ "name": "돼지고기전반", "measure": "g" },
+
+				{ "name": "돼지 등심살", "measure": "g" },
+
+				{ "name": "돼지 목살", "measure": "g" },
+
+				{ "name": "돼지 삼겹살", "measure": "g" },
+
+				{ "name": "돼지 안심살", "measure": "g" },
+
+				{ "name": "돼지 앞다리살", "measure": "g" },
+
+				{ "name": "돼지 뒷다리살", "measure": "g" },
+
+				{ "name": "돼지 갈매기살", "measure": "g" },
+
+				{ "name": "돼지 항정살", "measure": "g" },
+
+				{ "name": "돼지 등갈비살", "measure": "g" },
+
+				{ "name": "소고기 전반", "measure": "g" },
+
+				{ "name": "소 차돌박이", "measure": "g" },
+
+				{ "name": "소 사골", "measure": "g" },
+
+				{ "name": "소 안심살", "measure": "g" },
+
+				{ "name": "소 갈비살", "measure": "g" },
+
+				{ "name": "소 앞다리살", "measure": "g" },
+
+				{ "name": "소 우둔살", "measure": "g" },
+
+				{ "name": "소 꽃등심살", "measure": "g" },
+
+				{ "name": "소 목살", "measure": "g" },
+
+				{ "name": "소 양지머리", "measure": "g" },
+
+				{ "name": "소꼬리", "measure": "g" },
+
+				{ "name": "닭고기 전반", "measure": "g" },
+
+				{ "name": "닭 가슴살", "measure": "g" },
+
+				{ "name": "닭다리살", "measure": "g" },
+
+				{ "name": "닭 넓적다리", "measure": "g" },
+
+				{ "name": "닭 안심살", "measure": "g" },
+
+				{ "name": "닭 날개살", "measure": "g" },
+
+				{ "name": "오리고기", "measure": "g" },
+
+				{ "name": "소 채끝살", "measure": "g" },
+
+				{ "name": "소 살치살", "measure": "g" }
+			]
+		},
+
+		{
+			"kind": "우유 및 유제품",
+			"value": [
+				{ "name": "고다치즈", "measure": "cup" },
+
+				{ "name": "그릭 요거트", "measure": "cup" },
+
+				{ "name": "리코타 치즈", "measure": "cup" },
+
+				{ "name": "모짜렐라치즈", "measure": "cup" },
+
+				{ "name": "블루치즈", "measure": "cup" },
+
+				{ "name": "샤워크림", "measure": "cup" },
+
+				{ "name": "생크림", "measure": "cup" },
+
+				{ "name": "슬라이스치즈", "measure": "cup" },
+
+				{ "name": "요거트", "measure": "cup" },
+
+				{ "name": "체다치즈", "measure": "cup" },
+
+				{ "name": "까망베르치즈", "measure": "cup" },
+
+				{ "name": "크림치즈", "measure": "cup" },
+
+				{ "name": "파마산 치즈", "measure": "cup" },
+
+				{ "name": "흰우유", "measure": "cup" },
+
+				{ "name": "커피우유", "measure": "cup" },
+
+				{ "name": "버터", "measure": "cup" }
+			]
+		},
+
+		{
+			"kind": "알류",
+			"value": [
+				{ "name": "계란", "measure": "pcs" },
+
+				{ "name": "오리알", "measure": "pcs" },
+
+				{ "name": "메추리알", "measure": "pcs" },
+
+				{ "name": "타조알", "measure": "pcs" },
+
+				{ "name": "날치알", "measure": "g" },
+
+				{ "name": "연어알", "measure": "g" }
+			]
+		},
+
+		{
+			"kind": "어패류",
+			"value" : [
+				{ "name": "갈치", "measure": "g" },
+
+				{ "name": "멸치", "measure": "g" },
+
+				{ "name": "고등어", "measure": "g" },
+
+				{ "name": "꽁치", "measure": "g" },
+
+				{ "name": "꽃게", "measure": "g" },
+
+				{ "name": "대구", "measure": "g" },
+
+				{ "name": "동태", "measure": "g" },
+
+				{ "name": "대하", "measure": "g" },
+
+				{ "name": "미더덕", "measure": "g" },
+
+				{ "name": "연어", "measure": "g" },
+
+				{ "name": "오징어", "measure": "g" },
+
+				{ "name": "홍합", "measure": "g" },
+
+				{ "name": "황태", "measure": "g" },
+
+				{ "name": "방어", "measure": "g" },
+
+				{ "name": "꼬막", "measure": "g" },
+
+				{ "name": "전어", "measure": "g" },
+
+				{ "name": "전복", "measure": "g" },
+
+				{ "name": "소라", "measure": "g" },
+
+				{ "name": "한치", "measure": "g" },
+
+				{ "name": "장어", "measure": "g" },
+
+				{ "name": "붕어", "measure": "g" },
+
+				{ "name": "미꾸라지", "measure": "g" },
+
+				{ "name": "아구", "measure": "g" },
+
+				{ "name": "키조개", "measure": "g" },
+
+				{ "name": "새우", "measure": "g" },
+
+				{ "name": "밴댕이", "measure": "g" },
+
+				{ "name": "갑오징어", "measure": "g" }
+			]
+		},
+
+		{
+			"kind": "해조류",
+			"value": [
+				{ "name": "다시마", "measure": "g" },
+
+				{ "name": "김", "measure": "g" },
+
+				{ "name": "미역", "measure": "g" },
+
+				{ "name": "톳나물", "measure": "g" },
+
+				{ "name": "파래", "measure": "g" },
+
+				{ "name": "미역", "measure": "g" }
+			]
+		},
+
+		{
+			"kind": "향신료 및 소스류",
+			"value": [
+				{ "name": "후추", "measure": "tsp" },
+
+				{ "name": "카레가루", "measure": "tsp" },
+
+				{ "name": "겨자", "measure": "tsp" },
+
+				{ "name": "고춧가루", "measure": "tsp" },
+
+				{ "name": "케이퍼", "measure": "tsp" },
+
+				{ "name": "감초", "measure": "tsp" },
+
+				{ "name": "생강가루", "measure": "tsp" },
+
+				{ "name": "소금", "measure": "tsp" },
+
+				{ "name": "고수", "measure": "tsp" },
+
+				{ "name": "고추장", "measure": "tsp" },
+
+				{ "name": "된장", "measure": "tsp" },
+
+				{ "name": "굴소스", "measure": "tsp" },
+
+				{ "name": "머스터드소스", "measure": "tsp" },
+
+				{ "name": "칠리소스", "measure": "tsp" },
+
+				{ "name": "맛술", "measure": "tsp" },
+
+				{ "name": "올리고당", "measure": "tsp" },
+
+				{ "name": "물엿", "measure": "tsp" },
+
+				{ "name": "식초", "measure": "tsp" },
+
+				{ "name": "간장", "measure": "tsp" },
+
+				{ "name": "설탕", "measure": "tsp" },
+
+				{ "name": "청주", "measure": "tsp" },
+
+				{ "name": "페페론 치노", "measure": "tsp" },
+
+				{ "name": "파슬리", "measure": "tsp" },
+
+				{ "name": "미원", "measure": "tsp" },
+
+				{ "name": "발사믹", "measure": "tsp" },
+
+				{ "name": "커피가루", "measure": "tsp" },
+
+				{ "name": "매실액", "measure": "tsp" }
+			]
+		},
+
+		{
+			"kind": "음료 및 주류",
+			"value": [
+				{ "name": "콜라", "measure": "cup" },
+
+				{ "name": "사이다", "measure": "cup" },
+
+				{ "name": "오렌지 쥬스", "measure": "cup" },
+
+				{ "name": "포도쥬스", "measure": "cup" },
+
+				{ "name": "와인 (적)", "measure": "cup" },
+
+				{ "name": "와인 (백)", "measure": "cup" },
+
+				{ "name": "샴폐인", "measure": "cup" },
+
+				{ "name": "맥주", "measure": "cup" },
+
+				{ "name": "소주", "measure": "cup" },
+
+				{ "name": "물", "measure": "cup" }
+			]
+		},
+
+		{
+			"kind":	"기름류",
+			"value": [
+				{ "name": "식용유", "measure": "tsp" },
+
+				{ "name": "올리브유", "measure": "tsp" },
+
+				{ "name": "들기름", "measure": "tsp" },
+
+				{ "name": "참기름", "measure": "tsp" },
+
+				{ "name": "엑스트라버진", "measure": "tsp" },
+
+				{ "name": "옥수수씨유", "measure": "tsp" },
+
+				{ "name": "해바라기씨유", "measure": "tsp" }
+			]
+		},
+		{
+			"kind": "가공식품및 떡류",
+			"value": [
+				{ "name": "냉동밥", "measure": "g" },
+
+				{ "name": "미트볼", "measure": "g" },
+
+				{ "name": "라면", "measure": "g" },
+
+				{ "name": "라면사리", "measure": "g" },
+
+				{ "name": "소면", "measure": "g" },
+
+				{ "name": "물만두", "measure": "g" },
+
+				{ "name": "파스타면", "measure": "g" },
+
+				{ "name": "통조림 참치", "measure": "g" },
+
+				{ "name": "떡볶이떡", "measure": "g" },
+
+				{ "name": "가래떡", "measure": "g" },
+
+				{ "name": "인절미", "measure": "g" },
+
+				{ "name": "베이컨", "measure": "g" },
+
+				{ "name": "냉동피자", "measure": "pcs" },
+
+				{ "name": "냉동치킨", "measure": "pcs" },
+
+				{ "name": "어묵", "measure": "slice"}
+			]
+		},
+
+		{
+			"kind": "김치류",
+			"value": [
+				{ "name": "배추김치", "measure": "g" },
+
+				{ "name": "김치국물", "measure": "g" },
+
+				{ "name": "열무김치", "measure": "g" },
+
+				{ "name": "깍두기", "measure": "g" },
+
+				{ "name": "총각김치", "measure": "g" },
+
+				{ "name": "동치미", "measure": "g" },
+
+				{ "name": "나박김치", "measure": "g" },
+
+				{ "name": "파김치", "measure": "g" },
+
+				{ "name": "오이소박이", "measure": "g"},
+
+				{ "name": "갓김치", "measure": "g" }
+			]
+		},
+
+		{
+			"kind": "빵류",
+			"value": [
+				{ "name": "건빵", "measure": "slice" },
+
+				{ "name": "도너츠", "measure": "slice" },
+
+				{ "name": "바게트", "measure": "slice" },
+
+				{ "name": "베이글", "measure": "slice" },
+
+				{ "name": "모닝빵", "measure": "slice" },
+
+				{ "name": "식빵", "measure": "slice" },
+
+				{ "name": "햄버거용빵", "measure": "slice" },
+
+				{ "name": "핫도그용빵", "measure": "slice" },
+
+				{ "name": "팬케이크", "measure": "slice" },
+			]
+		},
+
+		{
+			"kind": "두부류",
+			"value": [
+				{ "name": "찌개용 두부", "measure": "slice"},
+
+				{ "name": "부침용 두부", "measure": "slice"},
+
+				{ "name": "순두부", "measure": "pcs"},
+
+				{ "name": "콩비지", "measure": "g"},
+
+			]
+
+		}
+	]
+
+}

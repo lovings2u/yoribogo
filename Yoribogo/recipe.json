@@ -1,0 +1,508 @@
+{
+	"recipe": [
+		{
+			"name": "삼겹살볶음",
+			"core": "삼겹살",
+			"ingredient": [
+				{
+					"name": "돼지 삼겹살",
+					"quantity": "200",
+					"measure": "g"
+				},
+				{
+					"name": "당근",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "양배추",
+					"quantity": "0.5",
+					"measure": "pcs"
+				},
+				{
+					"name": "고추",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "마늘",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "애호박",
+					"quantity": "1",
+					"measure": "pcs"
+				}, 
+				{
+					"name": "설탕",
+					"quantity": "0.5",
+					"measure" "tsp"
+				},
+				{
+					"name": "고추장",
+					"quantity": "0.5",
+					"measure" "tsp"
+				},
+				{
+					"name": "고춧가루",
+					"quantity": "2",
+					"measure" "tsp"
+				},
+				{
+					"name": "간장",
+					"quantity": "2",
+					"measure" "tsp"
+				},
+				{
+					"name": "참기름",
+					"quantity": "1",
+					"measure" "tsp"
+				}
+			],
+			"source": "http://blog.naver.com/julie7000/220686252552"
+		},
+		{
+			"name": "김치볶음밥",
+			"core": "배추김치",
+			"ingredient": [
+				{
+					"name": "배추김치",
+					"quantity": "120",
+					"measure": "g"
+				},
+				{
+					"name": "계란",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "대파",
+					"quantity": "30",
+					"measure": "g"
+				},
+				{
+					"name": "고춧가루",
+					"quantity": "1",
+					"measure" "tsp"
+				},
+				{
+					"name": "간장",
+					"quantity": "1",
+					"measure" "tsp"
+				},
+				{
+					"name": "설탕",
+					"quantity": "0.5",
+					"measure" "tsp"
+				},
+				{
+					"name": "참기름",
+					"quantity": "0.5",
+					"measure" "tsp"
+				},
+				{
+					"name": "참깨",
+					"quantity": "1",
+					"measure" "tsp"
+				},
+				{
+					"name": "소금",
+					"quantity": "0.2",
+					"measure" "tsp"
+				}	
+			],
+			"source": "http://blog.naver.com/julie7000/220676608117"
+		},
+		{
+			"name": "닭볶음탕",
+			"core": "닭다리살",
+			"ingredient": [
+				{
+					"name": "닭 다리살",
+					"quantity": "400",
+					"measure": "g"
+				},
+				{
+					"name": "양배추",
+					"quantity": "0.5",
+					"measure": "pcs"
+				},
+				{
+					"name": "감자",
+					"quantity": "2",
+					"measure": "pcs"
+				},
+				{
+					"name": "양파",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "당근",
+					"quantity": "0.5",
+					"measure": "pcs"
+				},
+				{
+					"name": "청양고추",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "대파",
+					"quantity": "50",
+					"measure": "g"
+				},
+				{
+					"name": "마늘",
+					"quantity": "2",
+					"measure": "pcs"
+				},
+				{
+					"name": "고추장",
+					"quantity": "4",
+					"measure" "tsp"
+				},
+				{
+					"name": "간장",
+					"quantity": "4",
+					"measure" "tsp"
+				},
+				{
+					"name": "설탕",
+					"quantity": "3",
+					"measure" "tsp"
+				},
+				{
+					"name": "맛술",
+					"quantity": "4",
+					"measure" "tsp"
+				},
+				{
+					"name": "참기름",
+					"quantity": "1",
+					"measure" "tsp"
+				}	
+			],
+			"source": "http://blog.naver.com/julie7000/220673639159"
+		},
+		{
+			"name": "오징어튀김",
+			"core": "오징어",
+			"ingredient": [
+				{
+					"name": "오징어",
+					"quantity": "300",
+					"measure": "g"
+				},
+				{
+					"name": "튀김가루",
+					"quantity": "200",
+					"measure": "g"
+				},
+				{
+					"name": "밀가루",
+					"quantity": "200",
+					"measure": "g"
+				},
+				{
+					"name": "맥주",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "당근",
+					"quantity": "0.5",
+					"measure": "pcs"
+				},
+				{
+					"name": "청양고추",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "양파",
+					"quantity": "0.5",
+					"measure": "pcs"
+				},
+				{
+					"name": "소금",
+					"quantity": "0.2",
+					"measure" "tsp"
+				},
+				{
+					"name": "간장",
+					"quantity": "2",
+					"measure" "tsp"
+				},
+				{
+					"name": "맛술",
+					"quantity": "3",
+					"measure" "tsp"
+				}	
+			],
+			"source": "http://blog.naver.com/julie7000/220637727116"
+		},
+		{
+			"name": "애호박볶음",
+			"core": "애호박",
+			"ingredient": [
+				{
+					"name": "애호박",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "돼지고기 전반",
+					"quantity": "110",
+					"measure": "g"
+				},
+				{
+					"name": "양파",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "대파",
+					"quantity": "0.5",
+					"measure": "pcs"
+				},
+				{
+					"name": "마늘",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "청주",
+					"quantity": "1",
+					"measure" "tsp"
+				},
+				{
+					"name": "생강가루",
+					"quantity": "0.2",
+					"measure" "tsp"
+				},
+				{
+					"name": "소금",
+					"quantity": "0.2",
+					"measure" "tsp"
+				},
+				{
+					"name": "후추",
+					"quantity": "1",
+					"measure" "tsp"
+				},
+				{
+					"name": "간장",
+					"quantity": "2",
+					"measure" "tsp"
+				},
+				{
+					"name": "물엿",
+					"quantity": "2",
+					"measure" "tsp"
+				},
+				{
+					"name": "맛술",
+					"quantity": "2",
+					"measure" "tsp"
+				},
+				{
+					"name": "굴소스",
+					"quantity": "2",
+					"measure" "tsp"
+				}
+			],
+			"source": "http://blog.naver.com/julie7000/220648729032"
+		},
+		{
+			"name": "순두부찌개",
+			"core": "순두부",
+			"ingredient": [
+				{
+					"name": "순두부",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "청양고추",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "돼지 뒷다리살",
+					"quantity": "100",
+					"measure": "g"
+				},
+				{
+					"name": "대파",
+					"quantity": "50",
+					"measure": "g"
+				},
+				{
+					"name": "계란",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "양파",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "마늘",
+					"quantity": "100",
+					"measure": "g"
+				},
+				{
+					"name": "고춧가루",
+					"quantity": "1",
+					"measure" "tsp"
+				},
+				{
+					"name": "참기름",
+					"quantity": "3",
+					"measure" "tsp"
+				},
+				{
+					"name": "소금",
+					"quantity": "0.2",
+					"measure" "tsp"
+				},
+				{
+					"name": "후추",
+					"quantity": "1",
+					"measure" "tsp"
+				},
+				{
+					"name": "간장",
+					"quantity": "3",
+					"measure" "tsp"
+				},
+				{
+					"name": "소금",
+					"quantity": "1",
+					"measure" "tsp"
+				},
+				{
+					"name": "설탕",
+					"quantity": "3",
+					"measure" "tsp"
+				}
+			],
+			"source": "http://blog.naver.com/julie7000/220554041313"
+		},
+		{
+			"name": "떡볶이",
+			"core": "떡볶이 떡",
+			"ingredient": [
+				{
+					"name": "떡볶이떡",
+					"quantity": "200",
+					"measure": "g"
+				},
+				{
+					"name": "어묵",
+					"quantity": "3",
+					"measure": "slice"
+				},
+				{
+					"name": "계란",
+					"quantity": "2",
+					"measure": "pcs"
+				},
+				{
+					"name": "마늘",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "고춧가루",
+					"quantity": "1",
+					"measure" "tsp"
+				},
+				{
+					"name": "고추장",
+					"quantity": "1",
+					"measure" "tsp"
+				},
+				{
+					"name": "후추",
+					"quantity": "1",
+					"measure" "tsp"
+				},
+				{
+					"name": "간장",
+					"quantity": "0.5",
+					"measure" "tsp"
+				},
+				{
+					"name": "설탕",
+					"quantity": "1",
+					"measure" "tsp"
+				}
+			],
+			"source": "http://blog.naver.com/julie7000/220547213296"
+		},
+		{
+			"name": "된장찌개",
+			"core": "된장",
+			"ingredient": [
+				{
+					"name": "소 차돌박이",
+					"quantity": "100",
+					"measure": "g"
+				},
+				{
+					"name": "찌개용 두부",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "무",
+					"quantity": "100",
+					"measure": "g"
+				},
+				{
+					"name": "청양고추",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "애호박",
+					"quantity": "1",
+					"measure": "pcs"
+				},
+				{
+					"name": "마늘",
+					"quantity": "100",
+					"measure": "g"
+				},
+				{
+					"name": "된장",
+					"quantity": "1.5",
+					"measure" "tsp"
+				},
+				{
+					"name": "고추장",
+					"quantity": "0.5",
+					"measure" "tsp"
+				},
+				{
+					"name": "설탕",
+					"quantity": "0.5",
+					"measure" "tsp"
+				},
+				{
+					"name": "올리브유",
+					"quantity": "0.5",
+					"measure" "tsp"
+				}
+			],
+			"source": "http://blog.naver.com/julie7000/220526376509"
+		}
+	]
+}
+
+
+		
